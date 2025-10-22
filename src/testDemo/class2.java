@@ -10,4 +10,9 @@ public class class2 {
 		System.out.println("GiTX is american guy");
 	}
 
+	
+	public void newdevelop()
+	{
+		System.out.println("PPractive is indian guy change in develop");
+	}
 }
