@@ -7,6 +7,7 @@ public class class2 {
 		
 		System.out.println("Hello World");
 		System.out.println("Hello New Updated");
+		System.out.println("GiTX is american guy");
 	}
 
 }
